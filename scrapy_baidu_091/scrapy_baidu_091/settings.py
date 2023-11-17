@@ -17,6 +17,7 @@ NEWSPIDER_MODULE = "scrapy_baidu_091.spiders"
 #USER_AGENT = "scrapy_baidu_091 (+http://www.yourdomain.com)"
 
 # Obey robots.txt rules
+# 注释掉之后，不遵守君子协议，“robots.txt”是个君子协议
 ROBOTSTXT_OBEY = True
 
 # Configure maximum concurrent requests performed by Scrapy (default: 16)
