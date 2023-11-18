@@ -6,6 +6,8 @@
 
 eg:  cd C:\Users\Administrator\AppData\Local\Programs\Python\Python311\Scripts
 
+命令2：pip install scrapy
+
 ## 2、创建爬虫的项目（cmd终端运行）
 
 命令1：cd 要创建爬虫项目的文件夹
